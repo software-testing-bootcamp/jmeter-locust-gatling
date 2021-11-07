@@ -8,8 +8,9 @@ https://youtu.be/PhBUx1Uwwsg
 
 ![image](https://user-images.githubusercontent.com/89974862/137537135-9bc84d3a-09bc-4767-bbe1-21bd2f3d9b27.png)
 
-![image](https://user-images.githubusercontent.com/89974862/140658380-6a1a48dc-dd7a-4a3c-969f-aec78762831f.png)
+******
 
+![image](https://user-images.githubusercontent.com/89974862/140658380-6a1a48dc-dd7a-4a3c-969f-aec78762831f.png)
 
 **Jmeter Requirements:**
 
@@ -25,7 +26,6 @@ https://jmeter.apache.org/
 
 https://jmeter-plugins.org/install/Install/
 
-******
 
 **How to run Jmeter test with GUI support?**
 
@@ -45,10 +45,10 @@ sh /Users/ozgur.kaya/Downloads/apache-jmeter-5.4.1/bin/jmeter -n -t /Users/ozgur
 
 ![image](https://user-images.githubusercontent.com/89974862/140658276-f8a2fde1-7ff3-4579-a13a-6c4c7377d126.png)
 
-******
 
 **NOTE:** If you got some Copy-Paste issues on JMeter please change your Jmeter theme by clicking Options -> Look and Feel -> System
 
+******
 
 ![image](https://user-images.githubusercontent.com/89974862/140658350-bd40837a-8045-46b6-9d00-3088774c3b6b.png)
 
@@ -65,7 +65,6 @@ pip3 install locust
 
 https://code.visualstudio.com/download
 
-******
 
 **How to run Locust test without configuration file?**
 
@@ -88,4 +87,7 @@ cd /Users/ozgur.kaya/Downloads/Locust/with-config
 
 ![image](https://user-images.githubusercontent.com/89974862/140658167-503ef07c-a860-4dfb-a22a-3caff5a6f252.png)
 ![image](https://user-images.githubusercontent.com/89974862/140658198-d2529b16-ece6-435b-9f61-ac776fb4568a.png)
+
+******
+
 
