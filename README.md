@@ -109,6 +109,9 @@ https://gatling.io/open-source/
 
 https://www.jetbrains.com/idea/download/
 
+![image](https://user-images.githubusercontent.com/89974862/140658940-ae9841f0-772b-452b-a036-1e3be63d2648.png)
+
+
 
 **How to run Gatling test from Terminal?**
 
@@ -117,4 +120,13 @@ https://www.jetbrains.com/idea/download/
 cd /Users/ozgur.kaya/Downloads/gatling-charts-highcharts-bundle-3.6.1/user-files
 3. Run the gatling command.
 sh /Users/ozgur.kaya/Downloads/gatling-charts-highcharts-bundle-3.6.1/bin/gatling.sh
+4. Choose **DemoBlaze** as your simulation number. In this example we will type 0 for this.
+5. Press ENTER for the run description.
+6. You can watch your test on command line while running.
+7. After test has been finished You can open index.html file to inspect test results with graphs.
+Example Path:
+/Users/ozgur.kaya/Downloads/gatling-charts-highcharts-bundle-3.6.1/results/demoblaze-20211104165049624
 
+![image](https://user-images.githubusercontent.com/89974862/140658971-37eef7e1-8a6e-49f5-b7db-79ba7caf7b4b.png)
+
+![image](https://user-images.githubusercontent.com/89974862/140659120-94588a2c-c9d8-47d8-971e-e67d4f755d62.png)
