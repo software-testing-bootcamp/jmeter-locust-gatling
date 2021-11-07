@@ -151,18 +151,32 @@ Example Path:
 
 
 **Resources:**
+
 https://www.oracle.com/java/technologies/downloads/
+
 https://jmeter.apache.org/
+
 https://jmeter-plugins.org/install/Install/
+
 https://github.com/haint/jmeter-sample
+
 https://locust.io/
+
 http://docs.locust.io/en/stable/installation.html
+
 https://github.com/locustio/locust
+
 https://gatling.io/open-source/
+
 https://www.jetbrains.com/idea/download/
+
 https://code.visualstudio.com/download
+
 https://plugins.jenkins.io/performance/
+
 https://plugins.jenkins.io/gatling/
 
+
 **Example App:**
+
 https://www.demoblaze.com/
