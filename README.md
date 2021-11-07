@@ -90,4 +90,31 @@ cd /Users/ozgur.kaya/Downloads/Locust/with-config
 
 ******
 
+![image](https://user-images.githubusercontent.com/89974862/140658505-dfc08532-c97a-4ca0-a276-6a2224184892.png)
+
+**Gatling Requirements:**
+
+* Install Java JDK
+https://www.oracle.com/tr/java/technologies/javase-downloads.html 
+
+* Install Brew as described in that URL -> https://brew.sh/
+
+* Install Scala with this command from Terminal
+brew install scala
+
+* Download Gatling Open-source from this URL. And extract the zipped file on our computer. ("gatling-charts-highcharts-bundle-x.x.x-bundle.zip")
+https://gatling.io/open-source/
+
+* Optionally you need an IDE for the development. We will use IntelliJ IDEA in this example. Do not forget to install Scala plugin for the IntelliJ.
+
+https://www.jetbrains.com/idea/download/
+
+
+**How to run Gatling test from Terminal?**
+
+1. Copy Gatling/user-files into your gatling-charts-highcharts-bundle-x.x.x-bundle unzipped folder and overwrite them.
+2. Open terminal window and navigate to your user-files directory.
+cd /Users/ozgur.kaya/Downloads/gatling-charts-highcharts-bundle-3.6.1/user-files
+3. Run the gatling command.
+sh /Users/ozgur.kaya/Downloads/gatling-charts-highcharts-bundle-3.6.1/bin/gatling.sh
 
