@@ -8,6 +8,8 @@ https://youtu.be/PhBUx1Uwwsg
 
 ![image](https://user-images.githubusercontent.com/89974862/137537135-9bc84d3a-09bc-4767-bbe1-21bd2f3d9b27.png)
 
+![image](https://user-images.githubusercontent.com/89974862/140658380-6a1a48dc-dd7a-4a3c-969f-aec78762831f.png)
+
 
 **Jmeter Requirements:**
 
@@ -46,6 +48,9 @@ sh /Users/ozgur.kaya/Downloads/apache-jmeter-5.4.1/bin/jmeter -n -t /Users/ozgur
 ******
 
 **NOTE:** If you got some Copy-Paste issues on JMeter please change your Jmeter theme by clicking Options -> Look and Feel -> System
+
+
+![image](https://user-images.githubusercontent.com/89974862/140658350-bd40837a-8045-46b6-9d00-3088774c3b6b.png)
 
 
 **Locust Requirements:**
